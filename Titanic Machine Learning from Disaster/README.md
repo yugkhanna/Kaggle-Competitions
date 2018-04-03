@@ -5,5 +5,5 @@
 
 Team:
 
-1. Yug Khanna
-2. [Uddeshya Singh](https://github.com/uds5501)
+[1. Yug Khanna](https://github.com/yugkhanna)
+[2. Uddeshya Singh](https://github.com/uds5501)
